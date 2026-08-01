@@ -1,6 +1,8 @@
-# I'm redzzxzs! 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=BB1DB0&width=650&lines=If+I+was+the+moon%2C+would+you+still+look+for+the+stars%3F)](https://git.io/typing-svg)
+![imagem](https://i.pinimg.com/1200x/3f/ff/5f/3fff5fb9b27b926d7421901e76df3ca0.jpg)
+
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pinyon+Script&weight=800&duration=6000&pause=100&color=970F0F&center=true&width=700&lines=The+end+of+a+journey+is+not+always+what+lies+beyond.)](https://git.io/typing-svg)
 ---
 
 | 🎵 Now Playing |
