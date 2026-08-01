@@ -1,6 +1,7 @@
 # I'm redzzxzs! 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=BB1DB0&width=650&lines=If+I+was+the+moon%2C+would+you+still+look+for+the+stars%3F)](https://git.io/typing-svg)---
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=BB1DB0&width=650&lines=If+I+was+the+moon%2C+would+you+still+look+for+the+stars%3F)](https://git.io/typing-svg)
+---
 
 | 🎵 Now Playing |
 | --- |
