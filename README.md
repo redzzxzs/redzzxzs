@@ -32,7 +32,7 @@
     <tr>
       <td width="64"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSU0Mc_sbac7yYhbeTkDP2NWQ6Z8_bFHWY9SvbnRUtI9g&s=10" width="54" height="54" style="border-radius: 6px;"></td>
       <td>
-        <a href="https://open.spotify.com/search/COPA%20essa%20e%20a%20nossa%20ultima%20noite%20no%20vietna"><b>essa é a nossa ultima noite no vietnã</b></a><br>
+        <a href="https://open.spotify.com/intl-pt/track/22V83ttbb6jF8YdP1dfurl"><b>essa é a nossa ultima noite no vietnã</b></a><br>
         <sub>COPA</sub>
       </td>
     </tr>
