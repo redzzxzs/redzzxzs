@@ -1,4 +1,4 @@
-# I'm redzzxzs! 👋🏻
+# I'm redzzxzs! 
 
 > **If I was the moon, would you still look for the stars?**
 
