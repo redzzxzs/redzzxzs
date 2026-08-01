@@ -18,14 +18,14 @@
     <tr>
       <td width="64"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4dniZMAzd9c2536TbPbWOeVQ9CnvwF_RvV63vrYq_bQ&s=10" width="54" height="54" style="border-radius: 6px;"></td>
       <td>
-        <a href="https://open.spotify.com/search/Novulent%20unknown%20feelings"><b>unknown feelings</b></a><br>
+        <a href="https://open.spotify.com/track/4zyHmSSneytuFEdU2TbU7w?si=540caa7613c44ff4"><b>unknown feelings</b></a><br>
         <sub>Novulent</sub>
       </td>
     </tr>
     <tr>
       <td width="64"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIYRoWCencgNwqZETtvV4HH06gbPifcEiqIGmqTJrJzp2OmlnIXmUuBaGv&s=10" width="54" height="54" style="border-radius: 6px;"></td>
       <td>
-        <a href="https://open.spotify.com/search/jaydes%20Misery"><b>Misery</b></a><br>
+        <a href="https://open.spotify.com/track/4bFHDgBFpu643EUOmAnFbr?si=dec2430134d24164"><b>Misery</b></a><br>
         <sub>jaydes</sub>
       </td>
     </tr>
