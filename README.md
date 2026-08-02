@@ -5,8 +5,15 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Pinyon+Script&weight=800&duration=6000&pause=100&color=970F0F&center=true&width=700&lines=The+end+of+a+journey+is+not+always+what+lies+beyond.)](https://git.io/typing-svg)
 ---
 
-| 🎵 Now Playing |
-| --- |
+
+| Category | Tools |
+| :--- | :--- |
+| **Languages** | `HTML/CSS`, `C`, `Phython` |
+| **Editors** | `VSCode`
+| **OS** | `Arch Linux` (CachyOS) + `Niri` |
+
+
+
 <img src="assets/giff.gif" width="500" align="right" />
 
  [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31lwqimo75i3cgn3ffkrwbtxgj5i&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31lwqimo75i3cgn3ffkrwbtxgj5i&redirect=true)
