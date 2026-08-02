@@ -7,12 +7,14 @@
 
 | 🎵 Now Playing |
 | --- |
-| [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31lwqimo75i3cgn3ffkrwbtxgj5i&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31lwqimo75i3cgn3ffkrwbtxgj5i&redirect=true)|
+<img src="assets/gif.gif" width="600" align="right" />
+
+ [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31lwqimo75i3cgn3ffkrwbtxgj5i&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31lwqimo75i3cgn3ffkrwbtxgj5i&redirect=true)
 
 <table>
   <thead>
     <tr>
-      <th colspan="2">📈 Top Tracks</th>
+      <th colspan="2"> my favorites</th>
     </tr>
   </thead>
   <tbody>
