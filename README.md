@@ -1,4 +1,3 @@
-
 ![imagem](https://i.pinimg.com/1200x/3f/ff/5f/3fff5fb9b27b926d7421901e76df3ca0.jpg)
 
 ---
@@ -12,8 +11,6 @@
 | **Languages** | `HTML/CSS`, `C`, `Phython` |
 | **Editors** | `VSCode`
 | **OS** | `Arch Linux` (CachyOS) + `Niri` |
-
-
 
 <img src="assets/giff.gif" width="500" align="right" />
 
