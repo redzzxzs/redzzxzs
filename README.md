@@ -14,7 +14,7 @@
 
 
 
-<img src="assets/giff.gif" width="490" align="right" />
+<img src="assets/giff.gif" width="460" align="right" />
 
 ---
 
