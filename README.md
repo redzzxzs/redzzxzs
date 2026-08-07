@@ -8,7 +8,7 @@
 
 | Category | Tools |
 | :--- | :--- |
-| **Languages** | `HTML/CSS`, `C`, `Phython` |
+| **Languages** | `HTML/CSS`, `C`, `Python` |
 | **Editors** | `VSCode`
 | **OS** | `Arch Linux` (CachyOS) + `Niri` |
 
