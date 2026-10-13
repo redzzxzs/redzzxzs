@@ -1,25 +1,33 @@
-<img width="1000" height="350" alt="image" src="https://github.com/user-attachments/assets/2d7730da-dd67-425c-952e-79dda6b38c0f" />
+<img src="assets/mar.gif" width="100%" alt="header gif" />
 
 ---
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pinyon+Script&weight=800&duration=6000&pause=100&color=970F0F&center=true&width=700&lines=The+end+of+a+journey+is+not+always+what+lies+beyond.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pinyon+Script&weight=800&size=24&duration=5000&pause=1000&color=970F0F&center=true&width=750&lines=But+if+I+am+not+myself,+who+will+love+me%3F;If+I+disappear,+the+world+remains+the+same...)](https://git.io/typing-svg)
 
 ---
 
 | Category | Tools |
 | :--- | :--- |
-| **Languages** | `HTML/CSS`, `C`, `Python`. `C++`, `SQL` |
-| **Editors** | `VSCode`
+| **Languages** | `HTML/CSS`, `C`, `Python`, `C++`, `SQL` |
+| **Editors** | `VSCode` |
 | **OS** | `Arch Linux` (CachyOS) + `Niri` and `windows 10` |
 
 ---
 
-<img src="assets/mar.gif" width="525" align="right" />
+<table border="0">
+  <tr>
+    <td valign="top">
+      <a href="https://github.com/kittinan/spotify-github-profile">
+        <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31lwqimo75i3cgn3ffkrwbtxgj5i&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=false&mode=dark" />
+      </a>
+    </td>
+    <td valign="top">
+      <img src="https://github.com/user-attachments/assets/2d7730da-dd67-425c-952e-79dda6b38c0f" width="400" />
+    </td>
+  </tr>
+</table>
 
-
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31lwqimo75i3cgn3ffkrwbtxgj5i&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false)](https://github.com/kittinan/spotify-github-profile)
- 
- ---
+---
 
 <table>
   <thead>
