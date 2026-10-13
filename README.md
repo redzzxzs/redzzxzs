@@ -14,7 +14,7 @@
 
 ---
 
-<img src="assets/mar.gif" width="500" align="right" />
+<img src="assets/mar.gif" width="550" align="right" />
 
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31lwqimo75i3cgn3ffkrwbtxgj5i&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false)](https://github.com/kittinan/spotify-github-profile)
