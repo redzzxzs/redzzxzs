@@ -1,4 +1,4 @@
-![imagem](https://i.pinimg.com/1200x/3f/ff/5f/3fff5fb9b27b926d7421901e76df3ca0.jpg)
+<img width="1000" height="350" alt="image" src="https://github.com/user-attachments/assets/2d7730da-dd67-425c-952e-79dda6b38c0f" />
 
 ---
 
@@ -14,7 +14,8 @@
 
 ---
 
-<img src="assets/giff.gif" width="500" align="right" />
+<img src="assets/mar.gif" width="500" align="right" />
+
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31lwqimo75i3cgn3ffkrwbtxgj5i&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false)](https://github.com/kittinan/spotify-github-profile)
  
